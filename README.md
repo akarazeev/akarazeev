@@ -4,9 +4,6 @@
 [![Linkedin: antonkarazeev](https://img.shields.io/badge/akarazeev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akarazeev/)](https://www.linkedin.com/in/akarazeev/)
 ![Profile views](https://gpvc.arturio.dev/akarazeev)
 
-### Work experience
-- Backend Developer @ [360dialog](https://www.360dialog.com)
-
 ### Github Stats
 [![Anton Karazeev's github stats](https://github-readme-stats.vercel.app/api?username=akarazeev)](https://github.com/anuraghazra/github-readme-stats)
 
